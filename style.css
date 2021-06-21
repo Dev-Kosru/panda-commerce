@@ -1,0 +1,72 @@
+.carousel-item{
+    background-color:#FEEAE9;
+    padding:15px 40px;
+}
+.container{
+    margin-bottom: 100px;
+}
+h4{
+    color:white;
+}
+.buy-now{
+    background-color:purple;
+    padding:10px 20px;
+    display:block;
+    margin-top:20px;
+    color:white;
+    cursor: pointer;
+    border:none;
+}
+.buy-now:hover{
+    color:white;
+}
+.price{
+    color:purple;
+    font-size: 26px;
+    font-weight: 700;
+}
+.cat1{
+    background-color:#FFB02A;
+    padding:10px 20px;
+    border-radius:8px;
+}
+.cat2{
+  background-color: #FF589B;
+    padding:10px 20px;
+    border-radius:8px;
+}
+.cat3{
+    background-color:#4289FF;
+    padding:10px 20px;
+    border-radius:8px;
+}
+.see,.see a{
+    color:orange;
+    cursor: pointer;
+    text-decoration: none;
+}
+.centers{
+    width:40%;
+    margin:auto;
+    background-color:#000;
+}
+.card-pricing{
+    margin: 10px 0;
+    display:block;
+    font-size: 22px;
+}
+.colors{
+    background-color:#FEEAE9;
+    padding: 50px;
+    border-radius: 8px;
+}
+input{
+    border:none;
+    padding:10px 15px;
+}
+.submit{
+    padding:8px 25px;
+    background-color:#FF589B;
+    border:none;
+    color:white;
+}
